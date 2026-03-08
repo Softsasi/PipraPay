@@ -7,6 +7,7 @@ Visit https://piprapay.com/ for more information.
 ---
 
 ## 📦 Repository
+Softsasi Version Reository: https://github.com/Softsasi/PipraPay.git
 
 Official Open-Source Repository:  
 👉 https://github.com/PipraPay/PipraPay
