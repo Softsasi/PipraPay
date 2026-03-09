@@ -3,7 +3,7 @@ class IficBankPlcGateway
 {
     public function info()
     {
-        return ['title' => 'IFIC Bank PLC', 'logo' => 'assets/logo.png', 'currency' => 'BDT', 'tab' => 'global', 'gateway_type' => 'manual', 'verify_by' => 'slip'];
+        return ['title' => 'IFIC Bank PLC', 'logo' => 'assets/logo.png', 'currency' => 'BDT', 'tab' => 'bank', 'gateway_type' => 'manual', 'verify_by' => 'slip'];
     }
 
     public function color()

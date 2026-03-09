@@ -7,7 +7,7 @@ class BcblBankGateway
             'title' => 'Bangladesh Commerce Bank Limited',
             'logo' => 'assets/logo.png',
             'currency' => 'BDT',
-            'tab' => 'global',
+            'tab' => 'bank',
 
             'gateway_type' => 'manual',
             'verify_by' => 'slip',
